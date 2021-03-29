@@ -1,0 +1,10 @@
+E:\Documentos\00 UTN\3º\PROGRAMACION III\PracticaPDF1\bin\Debug\PracticaPDF1.exe.config
+E:\Documentos\00 UTN\3º\PROGRAMACION III\PracticaPDF1\bin\Debug\PracticaPDF1.exe
+E:\Documentos\00 UTN\3º\PROGRAMACION III\PracticaPDF1\bin\Debug\PracticaPDF1.pdb
+E:\Documentos\00 UTN\3º\PROGRAMACION III\PracticaPDF1\obj\Debug\PracticaPDF1.csprojAssemblyReference.cache
+E:\Documentos\00 UTN\3º\PROGRAMACION III\PracticaPDF1\obj\Debug\PracticaPDF1.Properties.Resources.resources
+E:\Documentos\00 UTN\3º\PROGRAMACION III\PracticaPDF1\obj\Debug\PracticaPDF1.csproj.GenerateResource.cache
+E:\Documentos\00 UTN\3º\PROGRAMACION III\PracticaPDF1\obj\Debug\PracticaPDF1.csproj.CoreCompileInputs.cache
+E:\Documentos\00 UTN\3º\PROGRAMACION III\PracticaPDF1\obj\Debug\PracticaPDF1.exe
+E:\Documentos\00 UTN\3º\PROGRAMACION III\PracticaPDF1\obj\Debug\PracticaPDF1.pdb
+E:\Documentos\00 UTN\3º\PROGRAMACION III\PracticaPDF1\obj\Debug\PracticaPDF1.Formulario5.resources
